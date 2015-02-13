@@ -5,10 +5,13 @@ línia final github
 linia 1
 github
 linia 2
+local
 linia 3
 github
 linia 4
+local
 linia 5
+local
 linia 6
 github
 linia 7
